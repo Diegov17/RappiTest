@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ColorPrimary">#FF5722</color>
+    <color name="ColorPrimaryDark">#E64A19</color>
+    <color name="colorAccent">#FF80AB</color>
+
+    <color name="priceTextColor">#7ED23E</color>
+    <color name="backgroundButton">#57A546</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="backgroundOffline">#A4A4A4</color>
+    <color name="offlineTextColor">#FF0000</color>
+</resources>
